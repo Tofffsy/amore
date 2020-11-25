@@ -1,0 +1,260 @@
+body {	background-color:#f6e8dd;
+	margin: 0px;
+	}
+
+#accueil {
+/*conteneur general*/
+	background:url(../fond/run_amok_fond.jpg) no-repeat center 0px;
+	width:1024px;
+	height: 3072px;
+	position:relative;
+	margin: 0 auto;
+}
+			
+#portfolio {	width:900px;
+		height: 768px;
+		position:relative;
+		margin: 0 auto;
+		top: 768px;
+}
+
+#calvin {
+	float:right;
+	padding-top:300px;
+	
+}
+			
+#coordonnees { 	width:521px;
+		height: 768px;
+		position:relative;
+		margin:0 auto;
+		top:768px;
+}
+
+
+#cv_et_liens { 
+		width:1024px;
+		height: 768px;
+		position:relative;
+		margin:0 auto;
+		top:768px;
+}
+
+.lien {
+	color:#fff;
+}
+
+#cv {
+	position:absolute;
+	display:inline-block;
+	top:395px;
+	left:691px;
+	font-style:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+		}	
+	
+#cv a:link {	color:#000000;
+		text-decoration:none;
+			}
+#cv a:visited {	color:#000000;
+		text-decoration:none;
+				}
+#cv a:hover {color:#cc0000;
+			}		
+			
+			
+#carte_de_visite {
+	position:absolute;
+	display:inline-block;
+	top:561px;
+	left:732px;
+	font-style:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+		}	
+	
+#carte_de_visite a:link {color:#000000;
+			text-decoration:none;
+			}
+#carte_de_visite a:visited {color:#000000;
+				text-decoration:none;
+				}
+#carte_de_visite a:hover {color:#cc0000;
+			}
+					
+#deviantart{
+	position:absolute;
+	display:inline-block;
+	top:642px;
+	left:538px;
+	font-style:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+		}	
+	
+#deviantart a:link {color:#000000;
+			text-decoration:none;
+			}
+#deviantart a:visited {color:#000000;
+				text-decoration:none;
+				}
+#deviantart a:hover {color:#cc0000;
+			}
+					
+#senyphine {
+	position:absolute;
+	display:inline-block;
+	right:582px;
+	bottom:120px;
+	font-style:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+		}	
+	
+#senyphine a:link {color:#000000;
+			text-decoration:none;
+			}
+#senyphine a:visited {color:#000000;
+				text-decoration:none;
+				}
+#senyphine a:hover {color:#cc0000;
+			}
+					
+#nicolas {
+	position:absolute;
+	display:inline-block;
+	right:716px;
+	bottom:317px;
+	font-style:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+		}	
+	
+#nicolas a:link {color:#000000;
+			text-decoration:none;
+			}
+#nicolas a:visited {color:#000000;
+				text-decoration:none;
+				}
+#nicolas a:hover {color:#cc0000;
+			}
+			
+#sitezero {
+	position:absolute;
+	display:inline-block;
+	right:591px;
+	bottom:364px;
+	font-style:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	
+	}	
+	
+#sitezero a:link {color:#000000;
+			text-decoration:none;
+			}
+#sitezero a:visited {color:#000000;
+				text-decoration:none;
+				}
+#sitezero a:hover {color:#cc0000;
+			}	
+	
+			
+#fixemenu { width : 150px;
+			position:fixed;
+			top:0px;
+			right:10px;
+			text-decoration:none;
+}
+			
+
+.Style2 {
+	color: #CC0000;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size:12px;
+	line-height:10px;
+	margin-left: 5px;
+}
+
+a.Style2:hover {
+	color: #000000;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size:12px;
+	line-height:10px;
+	margin-left: 5px;
+}
+
+.Style1 {
+	color: #cc0000;
+	font-weight: 600;
+	font-style:italic;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size: 50px;
+	padding-top:100px;
+	
+}
+
+
+.Style10 {
+	color: #000000;
+	font-weight: 600;
+	font-style:italic;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size: 50px;
+	margin-left:0px;
+	padding-top:100px;
+	width:350px;
+}
+
+#texteadresse {font-style:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	width:370px;
+	float:right;
+	margin-right:0px;
+	margin-top:10px;
+	text-align:justify;
+	}
+
+hr {color:#000000;
+	line-height: 12px;}
+
+		
+#myGallery
+{	
+	display:inline;
+}
+
+.monBlocTitre{
+text-align:center;
+	
+}
+	
+
+.soustitre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #000000;
+	width:25%;
+	text-align:center;
+}
+
+.coord {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #000000;
+	text-align:center;
+}

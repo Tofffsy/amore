@@ -102,7 +102,7 @@ body {	background-color:#f6e8dd;
 #deviantart a:hover {color:#cc0000;
 			}
 					
-#senyphine {
+#GitHub {
 	position:absolute;
 	display:inline-block;
 	right:582px;
@@ -112,16 +112,16 @@ body {	background-color:#f6e8dd;
 	font-size:14px;
 		}	
 	
-#senyphine a:link {color:#000000;
+#GitHub a:link {color:#000000;
 			text-decoration:none;
 			}
-#senyphine a:visited {color:#000000;
+#GitHub a:visited {color:#000000;
 				text-decoration:none;
 				}
-#senyphine a:hover {color:#cc0000;
+#GitHub a:hover {color:#cc0000;
 			}
 					
-#nicolas {
+#UltraBook {
 	position:absolute;
 	display:inline-block;
 	right:716px;
@@ -131,16 +131,16 @@ body {	background-color:#f6e8dd;
 	font-size:14px;
 		}	
 	
-#nicolas a:link {color:#000000;
+#UltraBook a:link {color:#000000;
 			text-decoration:none;
 			}
-#nicolas a:visited {color:#000000;
+#UltraBook a:visited {color:#000000;
 				text-decoration:none;
 				}
-#nicolas a:hover {color:#cc0000;
+#UltraBook a:hover {color:#cc0000;
 			}
 			
-#sitezero {
+#OpenClassRoom {
 	position:absolute;
 	display:inline-block;
 	right:591px;
@@ -151,13 +151,13 @@ body {	background-color:#f6e8dd;
 	
 	}	
 	
-#sitezero a:link {color:#000000;
+#OpenClassRoom a:link {color:#000000;
 			text-decoration:none;
 			}
-#sitezero a:visited {color:#000000;
+#OpenClassRoom a:visited {color:#000000;
 				text-decoration:none;
 				}
-#sitezero a:hover {color:#cc0000;
+#OpenClassRoom a:hover {color:#cc0000;
 			}	
 	
 			
